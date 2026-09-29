@@ -39,7 +39,7 @@ The password receives a score based on how many requirements it satisfies.
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/basmalamohamedd35/password-strength-checker.git
 ```
 
 Navigate to the project directory:
